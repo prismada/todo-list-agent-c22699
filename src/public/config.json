@@ -1,0 +1,8 @@
+{
+  "name": "Todo List Agent",
+  "tagline": "Manage your tasks efficiently",
+  "example": "Add a task to buy groceries, then show me all my pending tasks",
+  "buttonText": "Search",
+  "workingText": "Searching...",
+  "statusText": "Todo List Agent is working..."
+}
